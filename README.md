@@ -13,7 +13,7 @@
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="550" height="215" />  
   
 
-- 🌱I keep gaining more and more knowledge  
+- 🌱I keep getting more and more knowledge  
   
 
 - ❓ Ask me about anything related to Python developing   
