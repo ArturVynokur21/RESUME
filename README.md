@@ -96,7 +96,7 @@ MySQL        9 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-
+<br>
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
