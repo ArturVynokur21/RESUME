@@ -1,5 +1,5 @@
 
-### <div align="center">Hello, I'm Arthur, a junior full-stack Python developer👨‍💻 and I created this profile solely for resume. Enjoy reviewing!🚀</div>  
+### <div align="center">Hello, I'm Artur, a junior full-stack Python developer👨‍💻 and I created this profile solely for resume. Enjoy reviewing!🚀</div>  
 
 
 ![image](https://user-images.githubusercontent.com/6764957/87082196-3418a980-c25d-11ea-9987-0d9787d54100.png)
